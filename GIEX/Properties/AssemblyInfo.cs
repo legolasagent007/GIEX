@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // l’ensemble d’attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
 [assembly: AssemblyTitle("GIEX")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Applicatin de Gestion des Inscriptions et examens des étudiants")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP Inc.")]
+[assembly: AssemblyCompany("X-clencia.")]
 [assembly: AssemblyProduct("GIEX")]
 [assembly: AssemblyCopyright("Copyright © HP Inc. 2018")]
 [assembly: AssemblyTrademark("")]
